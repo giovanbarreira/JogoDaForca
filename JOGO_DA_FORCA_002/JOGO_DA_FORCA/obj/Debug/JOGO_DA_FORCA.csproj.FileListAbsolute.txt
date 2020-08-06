@@ -1,0 +1,21 @@
+c:\users\aluno\documents\visual studio 2012\Projects\JOGO_DA_FORCA\JOGO_DA_FORCA\bin\Debug\JOGO_DA_FORCA.exe.config
+c:\users\aluno\documents\visual studio 2012\Projects\JOGO_DA_FORCA\JOGO_DA_FORCA\bin\Debug\JOGO_DA_FORCA.exe
+c:\users\aluno\documents\visual studio 2012\Projects\JOGO_DA_FORCA\JOGO_DA_FORCA\bin\Debug\JOGO_DA_FORCA.pdb
+c:\users\aluno\documents\visual studio 2012\Projects\JOGO_DA_FORCA\JOGO_DA_FORCA\obj\Debug\JOGO_DA_FORCA.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2012\Projects\JOGO_DA_FORCA\JOGO_DA_FORCA\obj\Debug\JOGO_DA_FORCA.Form1.resources
+c:\users\aluno\documents\visual studio 2012\Projects\JOGO_DA_FORCA\JOGO_DA_FORCA\obj\Debug\JOGO_DA_FORCA.Form2.resources
+c:\users\aluno\documents\visual studio 2012\Projects\JOGO_DA_FORCA\JOGO_DA_FORCA\obj\Debug\JOGO_DA_FORCA.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2012\Projects\JOGO_DA_FORCA\JOGO_DA_FORCA\obj\Debug\JOGO_DA_FORCA.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2012\Projects\JOGO_DA_FORCA\JOGO_DA_FORCA\obj\Debug\JOGO_DA_FORCA.exe
+c:\users\aluno\documents\visual studio 2012\Projects\JOGO_DA_FORCA\JOGO_DA_FORCA\obj\Debug\JOGO_DA_FORCA.pdb
+C:\Users\Giovan\Downloads\JOGO_DA_FORCA_002\JOGO_DA_FORCA\bin\Debug\JOGO_DA_FORCA.exe.config
+C:\Users\Giovan\Downloads\JOGO_DA_FORCA_002\JOGO_DA_FORCA\bin\Debug\JOGO_DA_FORCA.exe
+C:\Users\Giovan\Downloads\JOGO_DA_FORCA_002\JOGO_DA_FORCA\bin\Debug\JOGO_DA_FORCA.pdb
+C:\Users\Giovan\Downloads\JOGO_DA_FORCA_002\JOGO_DA_FORCA\obj\Debug\JOGO_DA_FORCA.csprojAssemblyReference.cache
+C:\Users\Giovan\Downloads\JOGO_DA_FORCA_002\JOGO_DA_FORCA\obj\Debug\JOGO_DA_FORCA.Form1.resources
+C:\Users\Giovan\Downloads\JOGO_DA_FORCA_002\JOGO_DA_FORCA\obj\Debug\JOGO_DA_FORCA.Form2.resources
+C:\Users\Giovan\Downloads\JOGO_DA_FORCA_002\JOGO_DA_FORCA\obj\Debug\JOGO_DA_FORCA.Properties.Resources.resources
+C:\Users\Giovan\Downloads\JOGO_DA_FORCA_002\JOGO_DA_FORCA\obj\Debug\JOGO_DA_FORCA.csproj.GenerateResource.cache
+C:\Users\Giovan\Downloads\JOGO_DA_FORCA_002\JOGO_DA_FORCA\obj\Debug\JOGO_DA_FORCA.csproj.CoreCompileInputs.cache
+C:\Users\Giovan\Downloads\JOGO_DA_FORCA_002\JOGO_DA_FORCA\obj\Debug\JOGO_DA_FORCA.exe
+C:\Users\Giovan\Downloads\JOGO_DA_FORCA_002\JOGO_DA_FORCA\obj\Debug\JOGO_DA_FORCA.pdb
